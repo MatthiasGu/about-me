@@ -2,6 +2,13 @@
 
 This repository has links to some of my code outside of work. Keep in mind some of it dates back many years...
 
+## Project contributions
+
+Some group projects that I have contributed to:
+
+https://github.com/h-dong/serina - several features
+
+
 ## Coding challenges
 
 Some random coding challenges I've done for fun or to practise something. This list is very incomplete at the moment, I have not organised my stuff well in the past so I am now in the process of digging everything up.
