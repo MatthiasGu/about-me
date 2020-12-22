@@ -64,4 +64,21 @@ https://bitbucket.org/MatthiasGu/distributed-systems/src/master/
 Card game (2016):
 https://github.com/MatthiasGu/sdcw3
 
+### Random
+
+Some other random things I've done in the past that does not really fall into the categories above.
+
+#### Regex crosswords
+
+These are more fun than "normal" crosswords. Once you start, it's hard to stop. You have been warned ;)
+
+This is my profile:
+https://regexcrossword.com/profile/48113 
+
+Get started here:
+https://regexcrossword.com/challenges/tutorial/puzzles/1
+
+And once you think you've got the hang of it... ;)
+https://regexcrossword.com/playerpuzzles/569de51a398cf
+
 
