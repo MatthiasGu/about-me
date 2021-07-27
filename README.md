@@ -2,12 +2,23 @@
 
 This repository has links to some of my code outside of work. Keep in mind some of it dates back many years...
 
+Please get in touch via LinkedIn https://www.linkedin.com/in/mj-gudenas/ if you have any questions or need additional samples. Not all of my side projects are made public.
+
+## Recruiters
+
+I started receiving a great deal of traffic from recruiters in the last few months, which is great news - the job market is booming! Unfortunately, I do end up repeating myself ad nauseum to multiple people every day. I have written a document here: https://github.com/MatthiasGu/for-recruiters that summarises my current situation.
+
+The repo is private, please get in touch via LinkedIn to get access.
+
 ## Project contributions
 
 Some group projects that I have contributed to:
 
 https://github.com/h-dong/serina - several features
 
+I do consulting / development work for early stage start-ups. If you would like me for your project, please get in touch via LinkedIn. I am currently fully booked, but I could perhaps get you some help.
+
+Unfortunately, I cannot share the details of my work for pre-fund start-ups. I can provide generic code samples of the projects with proprietary information removed - please get in touch.
 
 ## Coding challenges
 
