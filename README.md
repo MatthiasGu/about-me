@@ -4,12 +4,6 @@ This repository has links to some of my code outside of work. Keep in mind some 
 
 Please get in touch via LinkedIn https://www.linkedin.com/in/mj-gudenas/ if you have any questions or need additional samples. Not all of my side projects are made public.
 
-## Recruiters
-
-I started receiving a great deal of traffic from recruiters in the last few months, which is great news - the job market is booming! Unfortunately, I do end up repeating myself ad nauseum to multiple people every day. I have written a document here: https://github.com/MatthiasGu/for-recruiters that summarises my current situation.
-
-The repo is private, please get in touch via LinkedIn to get access.
-
 ## Project contributions
 
 Some group projects that I have contributed to:
